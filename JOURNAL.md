@@ -14,12 +14,16 @@
 
 ## Contents
 
-1. [2026-10-01 — Work session](#2026-10-01-work-session)
+1. [2026-10-01 — I started by saying, "huh. what's cool that i can do with a screen?" and then it hit me: a tiny ass gamepad. so then i just started placing components, i always use STM32's  for microcontrollers becau](#2026-10-01-i-started-by-saying-huh-whats-cool-that-i-can-do-)
 
 ## Design
 
-### 2026-10-01 — Work session
+### 2026-10-01 — I started by saying, "huh. what's cool that i can do with a screen?" and then it hit me: a tiny ass gamepad. so then i just started placing components, i always use STM32's  for microcontrollers becau
 
 **0.28h**
+
+I started by saying, "huh. what's cool that i can do with a screen?" and then it hit me: a tiny ass gamepad. so then i just started placing components, i always use STM32's  for microcontrollers because they're incredibly simple to set up and very powerful. so anyway, i added enough buttons for standard game boy emulation: up, down, left, right, a, b, start, and select. chose a 0.94 inch screen because kicad didnt have a different one and its I2C. i've worked with STM32's for months, so i already knew what to do so they dont die.
+## Screenshot!
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/05MXWGnavqiqgbrzGWMf068x0lc55Jvy/97909e5da7a6a488b395325fecb3e1a57eb14d08b517f2a9be522170c7b31d8f.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5f2576d7-4518-42ac-a03c-4615ffed4c83/video.mp4)
